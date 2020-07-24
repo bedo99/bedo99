@@ -1,4 +1,4 @@
-<h1 align= "center"><b>Hi I'm Eduardo and Hello World! :earth_asia:</b>👋🏽</h1>
+<h1 align= "center"><b>Hi, I'm Eduardo and Hello World! :earth_asia:</b>👋🏽</h1>
 
 <!--
 **bedo99/bedo99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
